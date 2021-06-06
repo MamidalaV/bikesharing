@@ -1,14 +1,14 @@
 # Bike-Sharing
 
-## This project is to analyse 'Citi bike sharing' data and understand if the same bike sharing business can be started in Des-Moines. 
+## PURPOSE: This project is to analyse 'Citi bike sharing' data and understand if the same bike sharing business can be started in Des-Moines. 
 
-### Using Tableau multiple visualization charts have been generated that help understand if investing in a business like this would be beneficial.
+### Using Tableau, multiple visualization charts have been generated that help understand if investing in a business like this would be beneficial.
 
-### Results:
+## RESULTS:
 
 #### While the bike sharing business have been pretty stable over past few decades, usage has seen a sharp increase over the past few years. 
 
-#### From the below viz, we can see that between 1990 and 200 the usage is high and there are multiple reasons for this. Where one big influencer could be the autombile traffic.
+#### From the below viz, we can see that between years 1990 and 2000 the usage is high and there are multiple reasons for this. Where one big influencer could be the automobile traffic.
 
 ![avg_tripduration](https://user-images.githubusercontent.com/74985818/120908073-e525f080-c634-11eb-979a-903209695c9d.png)
 
@@ -36,5 +36,17 @@
 
 ![gender_weekday](https://user-images.githubusercontent.com/74985818/120908352-58c8fd00-c637-11eb-9c0c-54f4a1c6ee23.png)
 
+
+## SUMMARY:
+By visualising the data and creating a story, we can understand that:
+1. The Bike usage is high during amongst the make customers and between 7AM - 9AM and then in the evening between 4PM-7PM.
+2. Subscribers are the ones who use the service more frequently and the ratio of subscribers is high compared to other customers.
+
+## CONCLUSION:
+Starting a bike share business would be beneficial by having more subscribers.
+
+## ENHANCEMENTS:
+1. Using the same dataset, we can also map out the customers' riding habits based on the **Start Station** and **End Station** variables.
+2. Create another visualization to understand the age group of the customers, by gender which will help in understanding what the target audience would be.
 
 
