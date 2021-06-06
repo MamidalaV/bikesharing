@@ -28,11 +28,11 @@
 
 ![tripduration_hour](https://user-images.githubusercontent.com/74985818/120908274-73e73d00-c636-11eb-8855-fd3fe3aad223.png)
 
-#### Drilling further down by gender
+#### Drilling further down by gender, we can see compared to women usage is hiher amongst men and that is beween 7-9AM and again between 4-7PM.
 
 ![gender_hour](https://user-images.githubusercontent.com/74985818/120908325-10a9da80-c637-11eb-9936-a6f4dab7a4c7.png)
 
-#### And below is the view to understand the usage of customers and subscribers - over the week and by gender.
+#### And below is the view to understand the usage of customers and subscribers - over the week and by gender. Having more subscribers is surely beneficial.
 
 ![gender_weekday](https://user-images.githubusercontent.com/74985818/120908352-58c8fd00-c637-11eb-9c0c-54f4a1c6ee23.png)
 
